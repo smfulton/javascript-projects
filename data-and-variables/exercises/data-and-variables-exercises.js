@@ -22,4 +22,3 @@ let hoursToMoon = milesToMoon / shuttleSpeedMPH;
 let daysToMoon = hoursToMoon / 24;
 // Print the results of the trip to the moon below
 console.log(shuttleName, "will take",daysToMoon,"days to reach the Moon.");
-console.log(1 + 5 % 3);
